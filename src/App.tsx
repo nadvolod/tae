@@ -1,6 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import logo from "./tae_circle.png";
 
 function App() {
   return (
@@ -12,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/@test-automation-experience"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Watch Test Automation Experience
         </a>
       </header>
     </div>
